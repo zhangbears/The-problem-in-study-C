@@ -1,3 +1,5 @@
+/*scanf_s函数
+scanf_s函数中scanf_s("输入格式",存储变量,int 存储大小)*/
 #include <stdio.h>
 
 
